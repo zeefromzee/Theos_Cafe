@@ -33,3 +33,4 @@ for dreamers, bakers, and cafe chasers everywhere.
 clone it, fork it, and make it your own, your story deserves its own flavor.  
 
 ───────────────────────────────  
+you can check its current progress in the wiki :>
