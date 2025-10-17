@@ -2,7 +2,7 @@
 
 a cozy digital nook for dessert lovers, cafe wanderers, and nostalgic souls  
 
-───────────────────────────────  
+───────────────────────────────    
 🍮 **about the project**  
 Theo’s Cafe is a personal recipe and cafe discovery platform that blends memory, exploration, and sweetness.  
 it’s built for those who find comfort in sugar, stories, and softly lit cafes.  
